@@ -1,5 +1,7 @@
 # BotMan Laravel Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/luciano-jr/luciano-bot.svg)](https://greenkeeper.io/)
+
 This repository is an example Laravel application to instantly start developing cross-platform messaging bots using [BotMan](https://github.com/mpociot/botman).
 
 ## Installation
